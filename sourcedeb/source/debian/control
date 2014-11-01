@@ -1,0 +1,12 @@
+Source: foo
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas+docker@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0)
+Homepage: http://example.com
+Standards-Version: 3.9.2
+
+Package: foo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Example
