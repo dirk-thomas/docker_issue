@@ -1,7 +1,7 @@
 Issue with Docker
 =================
 
-The example in this repo demonstrates an issue with Docker I ran into.
+The example in this repo demonstrates an issue with Docker I ran into: https://github.com/docker/docker/issues/8903
 
 Summary
 -------
